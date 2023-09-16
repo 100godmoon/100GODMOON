@@ -22,7 +22,7 @@ Leetcode profile : https://leetcode.com/saurabhchand <br> LinkedIn profile : htt
 
 
 
-**I Love SPACE**.<br>
+I Love **SPACE**.<br>
 <a href="https://ibb.co/QCMqqLB"><img height="150px" width="150px" src="https://i.ibb.co/k9Xrrjn/simon-lee-m0p-ALu-A1ok-unsplash.jpg" alt="simon-lee-m0p-ALu-A1ok-unsplash" border="0"></a>
 <a href="https://ibb.co/SBZKPWN"><img height="150px" width="150px"  src="https://i.ibb.co/ZxbhVtd/simon-lee-z1vpj-HAq1o8-unsplash.jpg" alt="simon-lee-z1vpj-HAq1o8-unsplash" border="0" /></a>
 <a href="https://ibb.co/hD1zKw8"><img  height="150px" width="150px" src="https://i.ibb.co/hD1zKw8/simon-lee-A6-OTC1-Ok-A-unsplash.jpg" alt="simon-lee-A6-OTC1-Ok-A-unsplash" border="0" /></a>
