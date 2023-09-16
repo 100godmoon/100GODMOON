@@ -4,9 +4,7 @@ Hi 👋 My name is Saurabh
 Web Developer
 -------------
 
-I'm Saurabh from India, and i am passionate about software development and problem solving. <br>
-
-I Love Space.
+I'm Saurabh from India, and i am passionate about software development and problem solving.<br>I Love Space.
 
 
 Leetcode profile : https://leetcode.com/saurabhchand 
