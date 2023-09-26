@@ -22,6 +22,8 @@ Leetcode profile : https://leetcode.com/saurabhchand <br> LinkedIn profile : htt
                  
 "Energy in universe is constant. so, buillding a Perpetual Machine".
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="saurabhchand" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saurabhchand?trk=profile-badge">Saurabh Chand</a></div>
+              
 
 <br>
 <a href="https://ibb.co/QCMqqLB"><img height="150px" width="150px" src="https://i.ibb.co/k9Xrrjn/simon-lee-m0p-ALu-A1ok-unsplash.jpg" alt="simon-lee-m0p-ALu-A1ok-unsplash" border="0"></a>
