@@ -1,4 +1,7 @@
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" width="200px"> <img src="giif.gif" /> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="200px" width="200px"> </p>
+
+[![An image of @100godmoon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/100godmoon)](https://holopin.io/@100godmoon)
+
+<!-- <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" width="200px"> <img src="giif.gif" /> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="200px" width="200px"> </p> -->
 
 
 
